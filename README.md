@@ -11,4 +11,4 @@ A Rick And Morty simple app that loads information from [The Rick and Morty API]
  * Room
  * Navigation
  
-<img align="right" src="https://user-images.githubusercontent.com/76838562/173253178-f027e2fb-feb0-4693-92dc-399ccd926950.jpg" width="400">
+![photo_2022-06-13_00-25-03](https://user-images.githubusercontent.com/76838562/173254331-aa79eb39-653b-4a1c-8c65-ad3b337ff368.jpg)
