@@ -9,6 +9,6 @@ A Rick And Morty simple app that loads information from [The Rick and Morty API]
  * Kotlin Coroutines
  * Retrofit
  * Room
- * Navigation
+ * Navigation Components
  
 ![photo_2022-06-13_00-25-03](https://user-images.githubusercontent.com/76838562/173254331-aa79eb39-653b-4a1c-8c65-ad3b337ff368.jpg)
