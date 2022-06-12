@@ -1,5 +1,5 @@
 # RickAndMorty - Android Architecture
-<img align="left" src="https://user-images.githubusercontent.com/76838562/173253178-f027e2fb-feb0-4693-92dc-399ccd926950.jpg" width="200">
+<img align="right" src="https://user-images.githubusercontent.com/76838562/173253178-f027e2fb-feb0-4693-92dc-399ccd926950.jpg" width="200">
 <img align="right" src="https://github.com/sberoch/RickAndMorty-AndroidArchitectureSample/raw/master/assets/characters.jpg" width="200">
 
 
